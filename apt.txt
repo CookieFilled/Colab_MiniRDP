@@ -1,0 +1,5 @@
+fluxbox
+x11vnc
+xvfb
+chromium-browser
+tint2
