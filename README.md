@@ -3,3 +3,5 @@ You can run kinda- RDP in google colab, this uses noVNC so response time is slow
 
 
 Simple Script but you can use this for testing some linux softwares or smthing
+
+Just Download the .ipynb file and open it in google colab
